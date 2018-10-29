@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Codie</string>
+    <string name="txt_caption">Codie</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Codie is a college student working to get a degree in game design and is currently working on a game design certificate from MCC. In his spare time he enjoys playing video games, he enjoys both newer games as well as going back to older games. </string>
+</resources>
